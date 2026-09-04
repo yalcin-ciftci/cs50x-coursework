@@ -4,17 +4,11 @@
 
   ## Tasks
 
-   Task              Purpose                                                     Status
-  ━━━━━━━━━━━━━━━━  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ━━━━━━━━━━━
-   Hello             Basic input and formatted output                            Completed
-  ────────────────  ──────────────────────────────────────────────────────────  ───────────
-   Mario             Loops and right-aligned output                              Completed
-  ────────────────  ──────────────────────────────────────────────────────────  ───────────
-   Mario Advanced    Nested loops, alignment, and spacing                        Completed
-  ────────────────  ──────────────────────────────────────────────────────────  ───────────
-   Cash              Input validation, arithmetic, and greedy problem solving    Completed
-  ────────────────  ──────────────────────────────────────────────────────────  ───────────
-   Credit            Integer operations, validation, and the Luhn algorithm      Completed
+  - **Hello** — Basic input and formatted output — Completed
+  - **Mario** — Loops and right-aligned output — Completed
+  - **Mario Advanced** — Nested loops, alignment, and spacing — Completed
+  - **Cash** — Input validation, arithmetic, and greedy problem solving — Completed
+  - **Credit** — Integer operations, validation, and the Luhn algorithm — Completed
 
   ## Concepts Practiced
 
