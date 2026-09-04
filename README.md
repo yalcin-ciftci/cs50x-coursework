@@ -9,7 +9,7 @@
 
   ## Repository Structure
 
-  - `week-01-c/` — C fundamentals and Week 1 problem-set implementations
+  - `problem_set01/` — C fundamentals and Week 1 problem-set implementations
   - Future weeks will be added as the course progresses.
 
   ## Progress
